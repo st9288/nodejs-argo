@@ -1,0 +1,17 @@
+{
+  "name": "sam260607",
+  "version": "1.0.0",
+  "description": "A new package in nodejs-argo",
+  "main": "index.js",
+  "author": "st9288",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
